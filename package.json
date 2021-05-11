@@ -1,6 +1,6 @@
 {
   "name": "mike-package",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is my description",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/exploitmik/mike-package.git"
   },
-  "keywords": ["mike", "package", "eu"],
+  "keywords": [
+    "mike",
+    "package",
+    "eu"
+  ],
   "author": "mikeoli",
   "license": "ISC",
   "bugs": {
