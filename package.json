@@ -1,5 +1,5 @@
 {
-  "name": "mike-package",
+  "name": "@mikeoli/mike-package",
   "version": "1.0.1",
   "description": "This is my description",
   "main": "index.js",
